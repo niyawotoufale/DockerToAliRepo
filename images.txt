@@ -10,4 +10,4 @@ mysql
 #cr2.fit2cloud.com/1panel/maxkb
 #kubesphere/ks-installer:v3.4.1
 mongo
-
+node:18.12-alpine3.16
